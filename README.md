@@ -1,2 +1,2 @@
-# dreambot-aio-aio
-The only script dreambot script you will ever need!
+# DreamBot AIO AIO (All In One All In One)
+The only script DreamBot script you will ever need!
